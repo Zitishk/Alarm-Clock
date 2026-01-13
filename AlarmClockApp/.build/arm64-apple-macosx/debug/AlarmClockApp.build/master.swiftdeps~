@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b2db0b801ddd4355da54da3caa85e02b"
+build_time: [1768220083, 27763000]
+inputs:
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift": [1768194272, 419057271]
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift": [1768198036, 325052791]
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift": [1768198053, 245607917]
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift": [1768220026, 153649017]
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift": [1768196967, 746287120]

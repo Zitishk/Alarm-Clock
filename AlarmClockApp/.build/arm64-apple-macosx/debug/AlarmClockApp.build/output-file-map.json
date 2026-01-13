@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/master.swiftdeps"
+  },
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift": {
+    "dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.d",
+    "object": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.swift.o",
+    "swiftmodule": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.swiftdeps"
+  },
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift": {
+    "dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.d",
+    "object": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.swift.o",
+    "swiftmodule": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.swiftdeps"
+  },
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift": {
+    "dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.d",
+    "object": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.swift.o",
+    "swiftmodule": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.swiftdeps"
+  },
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift": {
+    "dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.d",
+    "object": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.swift.o",
+    "swiftmodule": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.swiftdeps"
+  },
+  "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift": {
+    "dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.d",
+    "object": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.swift.o",
+    "swiftmodule": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.swiftdeps"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AlarmClockApp-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/sources",
+      "importPath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AlarmClockApp",
+      "moduleOutputPath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.swiftmodule",
+      "objects" : [
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.swift.o",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.swift.o",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.swift.o",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.swift.o",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AlarmClockApp_main",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "alarmclockapp"
+      ],
+      "outputFileMapPath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift",
+        "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift"
+      ],
+      "tempsPath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AlarmClockApp" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "AlarmClockApp",
+      "-package-name",
+      "alarmclockapp",
+      "-incremental",
+      "-c",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift",
+      "-I",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AlarmClockApp_main",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "alarmclockapp",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AlarmClockApp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp-entitlement.plist"
+    },
+    "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmClockApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AlarmManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/AudioPlayer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/AlarmClockApp/NotificationDelegate.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/sources"
+    },
+    "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmClockApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AlarmManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/AudioPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.build/NotificationDelegate.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/AlarmClockApp.product/Objects.LinkFileList"
+    },
+    "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/kshitizudainiya/Desktop/Claude Code/Alarm Clock/AlarmClockApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}
